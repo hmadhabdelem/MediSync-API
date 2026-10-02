@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="MediSync.API/MediSync.API.csproj" />
+    <Project Path="MediSync.Application/MediSync.Application.csproj" />
+    <Project Path="MediSync.Domain/MediSync.Domain.csproj" />
+    <Project Path="MediSync.Infrastructure/MediSync.Infrastructure.csproj" />
+  </Folder>
+</Solution>
