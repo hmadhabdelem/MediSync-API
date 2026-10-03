@@ -32,7 +32,7 @@ namespace MediSync.API.Controllers
 
         }
 
-        [HttpGet("Schedule/{DoctorID}")]
+        [HttpGet("Schedule/{doctorid}")]
         [AllowAnonymous]
         public async Task<IActionResult> GetDoctorSchedules(Guid doctorid)
         {
